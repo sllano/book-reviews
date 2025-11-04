@@ -1,50 +1,43 @@
 # Eric Calderwood, *On Earth or in Poems*
 
-current and recent invocations and representatiosn of al-Andalus in the realms
-of politics, literature, and the visual and performing arts, are more about the
-present than about the past itself
+El principio que anima el trabajo ambicioso, exhaustivo, e inspirador de
+Calderwood se encuentra bien asentado en los estudios sobre la política de la
+memoria: recordar el pasado colectivo no es un mero [acto] de nostalgia, sino
+que surge de la insatisfacción respecto al presente, y del consiguiente deseo de
+cambiarlo. *On Earth and in Poems* propone que, invocando al-Andalus en la
+política, literatura, artes visuales, y música un rango amplio de instituciones,
+individuos, y colectivos de diverso género, etnia e ideología, han perseguido
+mejorar sus condiciones sociales y ciertas causas políticas. Desviar la mirada
+desde la ontología de al-Andalus, o lo lo que "es", hacia su fenomenología, o
+cómo se interpreta en distintos contextos, ha permitido a Calderwood vislumbrar
+al-Andalus no como una realidad, sino como un método de estudio de realidades
+sociales y políticas; un método que requiere el cruce constante de barreras
+lingüísticas, geográficas y disciplinares, y que desvela cómo esas barreras han
+cobrado existencia. De esta manera, Calderwood nos guía a través de diversos
+proyectos que movilizan el mito moderno de la convivencia religiosa en la Iberia
+medieval con fines tan diversos como consolidar la tiranía colonialista,
+resistirla, o apoyar la causa Palestina. También nos muestra cómo ciertas
+interpretaciones de la historia de al-Andalus en la literatura y la
+historiografía, aun pareciendo inocuas, han intentado borrar de la memoria
+ciertos grupos como los imazighen (bereberes). En definitiva, la memoria de
+al-Andalus ha servido de instrumento para ocultar ciertas formas de diversidad y
+visibilizar otras.
 
-as per the author's own words:
-the study of the afterlives of al-Andalus has driven him to 
-move away from being concerned about the ontology of al-Andalus, and towards a
-phenomenology, that is, to account for the ways in which it has manifested in
-different cultural and historial contexts.
+Como en sus trabajos previos, Calderwood exhibe una gran facilidad para moverse
+a través de periodos, geografías y materiales dispares, sin por ello dejar de
+reconocer sus condiciones y demandas específicas. Sin esta movilidad, es
+imposible abarcar el potencial expansivo de un proyecto tan ambicioso como es el
+de "recordar" la(s) memoria(s) de al-Andalus. Quizás lo que más admiro del
+trabajo de Calderwood es su capacidad para contar una historia y mantener al
+lector atrapado en su embrujo. El flujo narrativo cristalino y locuaz de *On
+Earth and in Poems* evidencia un enorme esfuerzo de fondo, que, aunque
+adivinable, no se traduce en complejidad retórica ni en innecesarios obstáculos
+narrativos. El texto eleva demandas intelectuales, pero las recompensa con
+creces. Traduciendo entre campos simbólicos y lenguajes distintos, establece un
+delicado equilibro entre el uso de teoría cultural compleja y la inmediatez de
+estilo narrativo. 
 
-not a tangible, palpable echo of the past that requires study as a fixed object,
-not only because al-Andalus' boundaries were not fixed but rather in perpetual
-flux from 711 to 1492; but rather a method, and one that requires crossing
-linguistic, geographic, and disciplinary boundaries, but that exposes how those
-boundaries came into being
-
-from mobilising ideas of *convivencia* or inter-faith and inter-ethnic
-coexistence in contexts of oppression or as part of colonialist propaganda, to
-supporting Palestine, obfuscate certain forms of diversity while enabling others
-
-as in previous scholarship by Calderwood, extreme ease at moving between
-periods, geographies, and different types of materials, while recognising their
-specific conditions and demands, requiring an impressive array of linguistic,
-metholological and inter-disciplinary skills. Esta facilidad de movimiento es
-absolutamente necesaria para emprender un proyecto ambicioso, puesto que de
-memorias y ecos se trata, no hay barreras geográficas ni cronológicas que puedan
-contener el potencial expansivo del proyecto. 
-
-Quizás lo que más admiro es la capacidad de Calderwood para contar una historia,
-y mantener al lector atrapado en su embrujo. El poder de un flujo narrativo
-cristalino y locuaz 
-
-que, para los que nos dedicamos al oficio, trasluce un enorme esfuerzo de fondo,
-pero que, para el lector no académico, no se traduce en complejidad retórica ni
-en innecesarios obstáculos narrativos, sino que optimiza la recompensa de las
-demandas intelectuales que inevitablemente exige del lector
-
-Es palpable y loable el esfuerzo de Calderwood por atraer a diversos tipo de
-lector, académico y no académico, especialista, y estudiante.
-Requiere un delicado equilibro entre el uso de teoría cultural compleja 
-y la inmediatez de estilo narrativo
-un ejercicio de traducción de un campo semántico complejo, como es el de a teoría
-analítica, y el 
-
-how he does this happen?
+El Capítulo 1, sobre el "Ándalus árabe", estudia el borrado 
 
 the 'Arab' al-Andalus (Chapter 1), the erasure of Amazigh history in
 scholarship,

@@ -37,51 +37,38 @@ creces. Traduciendo entre campos simbólicos y lenguajes distintos, establece un
 delicado equilibro entre el uso de teoría cultural compleja y la inmediatez de
 estilo narrativo. 
 
-El Capítulo 1, sobre el "Ándalus árabe", estudia el borrado 
+Más concretamente, *On Earth or in Poems* estudia la ocultación del Ándalus
+Amazigh (bereber) en obras literarias y artísticas centradas exclusivamente en
+lo árabe, como *Fath al-Andalus* (La Conquista de al-Ándalus) de Jurji Zaidan
+(Capítulo 1); o, por el contrario, los proyectos culturales de reivindicación de
+lo Amazigh en la historia de al-Ándalus desde comienzos del XX hasta hoy
+(Capítulo 2). También estudia Calderwood el Ándalus de la obra de autoras e
+investigadoras feministas, como la siria Salma al-Haffar al-Kuzbari (1923-2006),
+quien contribuyó a dar voz a la mujer musulmana al mismo tiempo que desbancaba
+mitos sobre mujer e Islam (Capítulo 3). El capítulo 4 trata sobre la formación y
+efecto en distintos contextos políticos y culturales de imaginarios de Palestina
+en los que al-Ándalus sirve de punto comparativo e instrumento político. El
+capítulo 5 versa sobre música, centrándose en usos políticos de cierta
+historiografía sobre la música andalusí, o de proyectos de fusión
+flamenco-andalusí, como *Macama jonda*, o del trabajo del rapero español de
+origen marroquí Khaled, que mezcla en sus letras español, *darija* (árabe
+coloquial del Maghreb), y francés, explotando el potencial político de un
+textura deliberadamente heterogénea. Finalmente, el epílogo revisa la historia
+reciente de la mezquita de Córdoba y la manipulación de la historia por parte de
+la Iglesia católica para justificar su controvertida decisión de no permitir el
+rezo a musulmanes.
 
-the 'Arab' al-Andalus (Chapter 1), the erasure of Amazigh history in
-scholarship,
-literature and film, with examples such as Jurji Zaidan's *Fath al-Andalus* and
-other historical novles
+A través del estudio de estos temas Calderwood conduce al lector a través de un
+abanico de geografías y periodos dispares en los que excava fragmentos de los
+ecos de al-Ándalus. Este proyecto arqueológico aparta su atención del objeto en
+sí (la Iberia musulmana) para centrarse en una fenomenología de sus múltiples
+vidas póstumas (las *afterlives* del subtítulo). Esta polifonía de al-Ándalus
+conforma un tejido en el que las voces que lo conforman establecen entre sí una
+relación más o menos directa, causal, o simbólica.
 
-El 'Ándalus bereber', basado en un estudio de las campañas culturales e
-investigadoras para recuperar la contribución de los Amazigh que han surgido
-desde comienzos del siglo XX, en el campo del análisis literario, con atención a
-los Almohades [y los almorávides], y en la segunda mitad del xx como campaña
-política y cultural liderada por los propios Amazigh, con ejemplos como Driss
-Cha\"ibi's *Naissance à l'aube* (1986)
-
-El Ándalus feminista, en la obra de autoras literarias e investigadoras,
-incluyendo la escritoria siria Salma al-Haffar al-Kuzbari (1923-2006)
-contribuye a 
-dar voz a la mujer en el Islam historiando intentos pasados y recientes,
-a la par que 
-desbancar los mitos en torno a la relación entre Islam y mujer, inclu
-
-los imaginarios de un al-Andalus palestino, que mobiliza la memoria histórica en
-pos de diversos proyectos de apoyo a Palestina surgidos en geografías diversas,
-incluyendo dentro de Israel
-
-y el "al-Andalus armónico", dedicado a proyectos musicales que versan desde el
-estudio de la música andalusí, hasta proyectos de fusión flamenco-andausí, como
-*Macama jonda*, y el trabajo del rapero español de origen marroquí Khaled, que
-mezcla en sus letras español, darija (árabe coloquial del Maghreb), y francés,
-creando
-una textura deliberadamente no integrada de ecos e imágenes, amplificada
-visualmente en sus vídeos, que Calderwood analiza.
-
-En el epílogo revisamos la historia reciente de la mezquita de Córdoba y la
-decisión, controvertida y conservadora de la iglesia católica de no permitir el
-rezo a musulmanes
-
-meta-historia de al-Ándalus
-the book moves away from an archeology of al-Andalus that focuses on unearthing
-the object, towards and archeology of its afterlives, a phenomenology of its
-echoes
-
-un libro que, a la par que estudia la formación histórica y fenomenología de una
-polifonía de al-Andalus, establece un tejido de relaciones más o menos directas
-u oblicuas con cada una de las voces que la conforman.
+¿Forma parte *On Earth or in Poems* de alguna de las vidas póstumas de
+al-Ándalus? Sin duda alguna. El libro se inserta en una reciente corriente
+meta-histórica que estudia 
 
 impossibility of exhausting the search and study of all afterlives of
 al-Andalus, book being in dialogue with earlier scholarship such as Civantos and

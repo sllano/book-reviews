@@ -67,14 +67,21 @@ conforma un tejido en el que las voces que lo conforman establecen entre sí una
 relación más o menos directa, causal, o simbólica.
 
 ¿Forma parte *On Earth or in Poems* de alguna de las vidas póstumas de
-al-Ándalus? Sin duda alguna. El libro se inserta en una reciente corriente
-meta-histórica que estudia 
+al-Ándalus? Sin duda alguna. El libro se inserta en una corriente reciente que
+estudia los usos históricos de al-Ándalus, y que incluye trabajos como los de
+Christina Civantos, Jonathan Shannon, Rachel Scott, Matthew Machin-Autenrieth,
+Jonathan Glasser, y otros. Lo que distingue al de Calderwood es una asombrosa
+capacidad para cruzar líneas disciplinares, cronológicas, geográficas, y
+lingüísticas, transgrediéndolas y exponiendo su arbitrariedad. La ambición del
+libro es inmensa, y no decepciona. Pero es sólo un comienzo. Los ecos de
+al-Ándalus reverberan por todas partes, y trabajos como el de Calderwood los
+amplifican y reconducen por nuevos territorios. Como el propio Calderwood
+reconoce, Latinoamérica es una geografía aún virgen en la arqueología de las
+memorias de al-Andalus, y su demanda de atención se escapa a las posibilidades
+de *On Earth or in Poems*. Sin embargo, para los que nos sentimos impulsados a
+emprender caminos tangenciales en busca de los ecos perdidos de al-Ándalus, este
+libro es una verdadera fuente de inspiración. 
 
-impossibility of exhausting the search and study of all afterlives of
-al-Andalus, book being in dialogue with earlier scholarship such as Civantos and
-Scott. also because archeologies of al-Andalus such as these are in themselves
-part of the afterlives of al-Andalus, as self-aware contributions, and may be
-studied in the future as such, once the inquietudes driving them gain sharpness
-over time.
+
 
 
